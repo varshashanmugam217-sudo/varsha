@@ -1,0 +1,6 @@
+{
+  "name": "AI Career & Skill Gap Analyzer",
+  "description": "Comprehensive AI platform for students and job seekers to analyze resumes, detect skill gaps for target roles, calculate readiness scores, and follow step-by-step learning roadmaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
